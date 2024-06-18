@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67847332359",
+    "project_id": "blogbox-bba7f",
+    "storage_bucket": "blogbox-bba7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67847332359:android:ef6dd262cf08579dc980a2",
+        "android_client_info": {
+          "package_name": "com.example.blogbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZXUkHgVZomFoSPMybodKddXIntU_icEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
